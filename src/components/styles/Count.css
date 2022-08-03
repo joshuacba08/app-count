@@ -1,0 +1,21 @@
+.count-container{
+
+    width: 100%;
+    min-height: 400px;
+    text-align: center;
+
+}
+
+.count-container .count-container__count {
+    font-size: 8rem;
+}
+
+.count-container .count-container__controls {
+    
+}
+
+.count-container .count-container__controls .controls__button{
+    font-size:4rem;
+    padding:9px 12px;
+    cursor: pointer;
+}
